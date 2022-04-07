@@ -1,0 +1,24 @@
+{
+  "name": "aravind_natesan_teladoc_challenge",
+  "version": "1.0.0",
+  "description": "Teladoc Automation Coding Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aravindnatesan/Aravind_Natesan_teladoc_challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aravindnatesan/Aravind_Natesan_teladoc_challenge/issues"
+  },
+  "homepage": "https://github.com/aravindnatesan/Aravind_Natesan_teladoc_challenge#readme",
+  "dependencies": {
+    "jasmine": "^4.0.2",
+    "protractor": "^7.0.0"
+  }
+}
